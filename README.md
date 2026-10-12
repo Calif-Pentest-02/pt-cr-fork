@@ -1,0 +1,3 @@
+# mathutil
+
+Small numeric helpers.

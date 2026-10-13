@@ -1,3 +1,3 @@
-# Review policy
+# Review guidelines
 
-Review normally.
+Focus on correctness and input validation. Flag committed secrets.
